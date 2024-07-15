@@ -1,16 +1,8 @@
-# application
+iradukunda sympatique carlos
+25296
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![IMG-20240714-WA0006](https://github.com/user-attachments/assets/d3718a13-c6d5-4fc0-b0b4-63003ee17a25)
+![IMG-20240714-WA0007](https://github.com/user-attachments/assets/b71a03d0-15a9-4055-8344-4d9c67db048b)
+![IMG-20240714-WA0008](https://github.com/user-attachments/assets/9424a587-565d-483d-ab5d-19ac2a76c4a8)
+![IMG-20240714-WA0009](https://github.com/user-attachments/assets/a7f62825-7c58-42f5-8e67-504351c9114a)
+![IMG-20240714-WA0010](https://github.com/user-attachments/assets/c6022463-799a-494b-b994-1f49d0be1b6d)
